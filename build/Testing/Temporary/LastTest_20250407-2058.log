@@ -1,0 +1,24 @@
+Start testing: Apr 07 23:40 CEST
+----------------------------------------------------------
+10/11 Testing: mstl_queue_test
+10/11 Test: mstl_queue_test
+Command: "/home/lzy/sgi-stl/build/bin/mstl_queue_test"
+Directory: /home/lzy/sgi-stl/build
+"mstl_queue_test" start time: Apr 07 23:40 CEST
+Output:
+----------------------------------------------------------
+开始测试 Queue (使用 Deque 作为底层容器)...
+Queue (Deque) 测试通过！
+开始测试 Queue (使用 List 作为底层容器)...
+Queue (List) 测试通过！
+开始测试 PriorityQueue...
+PriorityQueue 测试通过！
+<end of output>
+Test time =   0.03 sec
+----------------------------------------------------------
+Test Passed.
+"mstl_queue_test" end time: Apr 07 23:40 CEST
+"mstl_queue_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 07 23:40 CEST

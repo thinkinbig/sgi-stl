@@ -1,0 +1,68 @@
+[
+{
+  "directory": "/home/lzy/sgi-stl/build",
+  "command": "/usr/bin/clang++ -I/home/lzy/sgi-stl/modern_sgi_stl  -std=c++20 -g -O0 -Wall -Wextra -std=gnu++20 -g -O1 -fsanitize=address -fno-omit-frame-pointer -Wall -Wextra -Wpedantic -o CMakeFiles/mstl_alloc_test.dir/mstl_alloc_test.cpp.o -c /home/lzy/sgi-stl/modern_sgi_stl/mstl_alloc_test.cpp",
+  "file": "/home/lzy/sgi-stl/modern_sgi_stl/mstl_alloc_test.cpp",
+  "output": "CMakeFiles/mstl_alloc_test.dir/mstl_alloc_test.cpp.o"
+},
+{
+  "directory": "/home/lzy/sgi-stl/build",
+  "command": "/usr/bin/clang++ -I/home/lzy/sgi-stl/modern_sgi_stl  -std=c++20 -g -O0 -Wall -Wextra -std=gnu++20 -g -O1 -fsanitize=address -fno-omit-frame-pointer -Wall -Wextra -Wpedantic -o CMakeFiles/mstl_construct_test.dir/mstl_construct_test.cpp.o -c /home/lzy/sgi-stl/modern_sgi_stl/mstl_construct_test.cpp",
+  "file": "/home/lzy/sgi-stl/modern_sgi_stl/mstl_construct_test.cpp",
+  "output": "CMakeFiles/mstl_construct_test.dir/mstl_construct_test.cpp.o"
+},
+{
+  "directory": "/home/lzy/sgi-stl/build",
+  "command": "/usr/bin/clang++ -I/home/lzy/sgi-stl/modern_sgi_stl  -std=c++20 -g -O0 -Wall -Wextra -std=gnu++20 -g -O1 -fsanitize=address -fno-omit-frame-pointer -Wall -Wextra -Wpedantic -o CMakeFiles/mstl_uninitialized_test.dir/mstl_uninitialized_test.cpp.o -c /home/lzy/sgi-stl/modern_sgi_stl/mstl_uninitialized_test.cpp",
+  "file": "/home/lzy/sgi-stl/modern_sgi_stl/mstl_uninitialized_test.cpp",
+  "output": "CMakeFiles/mstl_uninitialized_test.dir/mstl_uninitialized_test.cpp.o"
+},
+{
+  "directory": "/home/lzy/sgi-stl/build",
+  "command": "/usr/bin/clang++ -I/home/lzy/sgi-stl/modern_sgi_stl  -std=c++20 -g -O0 -Wall -Wextra -std=gnu++20 -g -O1 -fsanitize=address -fno-omit-frame-pointer -Wall -Wextra -Wpedantic -o CMakeFiles/mpthread_alloc_test.dir/mpthread_alloc_test.cpp.o -c /home/lzy/sgi-stl/modern_sgi_stl/mpthread_alloc_test.cpp",
+  "file": "/home/lzy/sgi-stl/modern_sgi_stl/mpthread_alloc_test.cpp",
+  "output": "CMakeFiles/mpthread_alloc_test.dir/mpthread_alloc_test.cpp.o"
+},
+{
+  "directory": "/home/lzy/sgi-stl/build",
+  "command": "/usr/bin/clang++ -I/home/lzy/sgi-stl/modern_sgi_stl  -std=c++20 -g -O0 -Wall -Wextra -std=gnu++20 -g -O1 -fsanitize=address -fno-omit-frame-pointer -Wall -Wextra -Wpedantic -o CMakeFiles/mstl_iterator_test.dir/mstl_iterator_test.cpp.o -c /home/lzy/sgi-stl/modern_sgi_stl/mstl_iterator_test.cpp",
+  "file": "/home/lzy/sgi-stl/modern_sgi_stl/mstl_iterator_test.cpp",
+  "output": "CMakeFiles/mstl_iterator_test.dir/mstl_iterator_test.cpp.o"
+},
+{
+  "directory": "/home/lzy/sgi-stl/build",
+  "command": "/usr/bin/clang++ -I/home/lzy/sgi-stl/modern_sgi_stl  -std=c++20 -g -O0 -Wall -Wextra -std=gnu++20 -g -O1 -fsanitize=address -fno-omit-frame-pointer -Wall -Wextra -Wpedantic -o CMakeFiles/mstl_vector_test.dir/mstl_vector_test.cpp.o -c /home/lzy/sgi-stl/modern_sgi_stl/mstl_vector_test.cpp",
+  "file": "/home/lzy/sgi-stl/modern_sgi_stl/mstl_vector_test.cpp",
+  "output": "CMakeFiles/mstl_vector_test.dir/mstl_vector_test.cpp.o"
+},
+{
+  "directory": "/home/lzy/sgi-stl/build",
+  "command": "/usr/bin/clang++ -I/home/lzy/sgi-stl/modern_sgi_stl  -std=c++20 -g -O0 -Wall -Wextra -std=gnu++20 -g -O1 -fsanitize=address -fno-omit-frame-pointer -Wall -Wextra -Wpedantic -o CMakeFiles/mstl_list_test.dir/mstl_list_test.cpp.o -c /home/lzy/sgi-stl/modern_sgi_stl/mstl_list_test.cpp",
+  "file": "/home/lzy/sgi-stl/modern_sgi_stl/mstl_list_test.cpp",
+  "output": "CMakeFiles/mstl_list_test.dir/mstl_list_test.cpp.o"
+},
+{
+  "directory": "/home/lzy/sgi-stl/build",
+  "command": "/usr/bin/clang++ -I/home/lzy/sgi-stl/modern_sgi_stl  -std=c++20 -g -O0 -Wall -Wextra -std=gnu++20 -g -O1 -fsanitize=address -fno-omit-frame-pointer -Wall -Wextra -Wpedantic -o CMakeFiles/mstl_deque_test.dir/mstl_deque_test.cpp.o -c /home/lzy/sgi-stl/modern_sgi_stl/mstl_deque_test.cpp",
+  "file": "/home/lzy/sgi-stl/modern_sgi_stl/mstl_deque_test.cpp",
+  "output": "CMakeFiles/mstl_deque_test.dir/mstl_deque_test.cpp.o"
+},
+{
+  "directory": "/home/lzy/sgi-stl/build",
+  "command": "/usr/bin/clang++ -I/home/lzy/sgi-stl/modern_sgi_stl  -std=c++20 -g -O0 -Wall -Wextra -std=gnu++20 -fsanitize=address -fno-omit-frame-pointer -Wall -Wextra -Wpedantic -o CMakeFiles/mstl_stack_test.dir/mstl_stack_test.cpp.o -c /home/lzy/sgi-stl/modern_sgi_stl/mstl_stack_test.cpp",
+  "file": "/home/lzy/sgi-stl/modern_sgi_stl/mstl_stack_test.cpp",
+  "output": "CMakeFiles/mstl_stack_test.dir/mstl_stack_test.cpp.o"
+},
+{
+  "directory": "/home/lzy/sgi-stl/build",
+  "command": "/usr/bin/clang++ -I/home/lzy/sgi-stl/modern_sgi_stl  -std=c++20 -g -O0 -Wall -Wextra -std=gnu++20 -fsanitize=address -fno-omit-frame-pointer -Wall -Wextra -Wpedantic -o CMakeFiles/mstl_queue_test.dir/mstl_queue_test.cpp.o -c /home/lzy/sgi-stl/modern_sgi_stl/mstl_queue_test.cpp",
+  "file": "/home/lzy/sgi-stl/modern_sgi_stl/mstl_queue_test.cpp",
+  "output": "CMakeFiles/mstl_queue_test.dir/mstl_queue_test.cpp.o"
+},
+{
+  "directory": "/home/lzy/sgi-stl/build",
+  "command": "/usr/bin/clang++ -I/home/lzy/sgi-stl/modern_sgi_stl  -std=c++20 -g -O0 -Wall -Wextra -std=gnu++20 -g -O1 -fsanitize=address -fno-omit-frame-pointer -Wall -Wextra -Wpedantic -o CMakeFiles/mstl_heap_test.dir/mstl_heap_test.cpp.o -c /home/lzy/sgi-stl/modern_sgi_stl/mstl_heap_test.cpp",
+  "file": "/home/lzy/sgi-stl/modern_sgi_stl/mstl_heap_test.cpp",
+  "output": "CMakeFiles/mstl_heap_test.dir/mstl_heap_test.cpp.o"
+}
+]

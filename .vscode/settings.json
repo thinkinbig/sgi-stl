@@ -63,6 +63,12 @@
         "sstream": "cpp",
         "variant": "cpp",
         "format": "cpp",
-        "*.inc": "cpp"
-    }
+        "*.inc": "cpp",
+        "list": "cpp",
+        "forward_list": "cpp",
+        "map": "cpp",
+        "any": "cpp",
+        "source_location": "cpp"
+    },
+    "cmake.sourceDirectory": "/home/lzy/sgi-stl/modern_sgi_stl"
 }

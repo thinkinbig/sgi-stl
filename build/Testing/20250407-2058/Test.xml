@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250407-2058-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.28.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="DESKTOP-9I1TL77"
+	OSRelease="5.15.167.4-microsoft-standard-WSL2"
+	OSVersion="#1 SMP Tue Nov 5 00:21:55 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="165"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2048"
+	TotalPhysicalMemory="7838"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3696.01"
+	>
+	<Testing>
+		<StartDateTime>Apr 07 23:40 CEST</StartDateTime>
+		<StartTestTime>1744062023</StartTestTime>
+		<TestList>
+			<Test>./mstl_queue_test</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>mstl_queue_test</Name>
+			<Path>.</Path>
+			<FullName>./mstl_queue_test</FullName>
+			<FullCommandLine>/home/lzy/sgi-stl/build/bin/mstl_queue_test</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0309245</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/lzy/sgi-stl/build/bin/mstl_queue_test</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJx7uqfh6fLuZ1u7X6yfqhBYmlqaqqDxZO/+51NWKLikFgJ5T/bOebJj19NdU59ubHq6bufTmSs09fT0uKBKwWo0FSD6XzbMerG//f2eRq6nuE31ySwuIWAoSAkBMwOKMvOLMksqwTpAWlEEMPQCABSUfDQ=</Value>
+				</Measurement>
+			</Results>
+		</Test>
+		<EndDateTime>Apr 07 23:40 CEST</EndDateTime>
+		<EndTestTime>1744062023</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

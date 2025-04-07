@@ -1,0 +1,169 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-c5b31377552db4cab046.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.10"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "ModernSGI_STL",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "check-format::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-check-format-Debug-e6543aac9b485c31f2eb.json",
+					"name" : "check-format",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "format::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-format-Debug-9aa85ee91446fecdd92c.json",
+					"name" : "format",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mpthread_alloc_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mpthread_alloc_test-Debug-09fe3e7c42ef17eb73e1.json",
+					"name" : "mpthread_alloc_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mstl_alloc_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mstl_alloc_test-Debug-a60f7ee637645206b159.json",
+					"name" : "mstl_alloc_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mstl_construct_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mstl_construct_test-Debug-7516fa781d38f1dca8e7.json",
+					"name" : "mstl_construct_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mstl_deque_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mstl_deque_test-Debug-9d27154c4370a850278c.json",
+					"name" : "mstl_deque_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mstl_heap_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mstl_heap_test-Debug-bc9a839d2e5ca1f31f54.json",
+					"name" : "mstl_heap_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mstl_iterator_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mstl_iterator_test-Debug-0557dcaa47a7e6765102.json",
+					"name" : "mstl_iterator_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mstl_list_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mstl_list_test-Debug-467be5da27eea87de92f.json",
+					"name" : "mstl_list_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mstl_queue_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mstl_queue_test-Debug-ebebdd4383abcab8bdad.json",
+					"name" : "mstl_queue_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mstl_stack_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mstl_stack_test-Debug-e352e9c92eaa469e71e7.json",
+					"name" : "mstl_stack_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mstl_uninitialized_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mstl_uninitialized_test-Debug-0e916e8177629a28f51c.json",
+					"name" : "mstl_uninitialized_test",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mstl_vector_test::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mstl_vector_test-Debug-50119a51d7211de618af.json",
+					"name" : "mstl_vector_test",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/lzy/sgi-stl/build",
+		"source" : "/home/lzy/sgi-stl/modern_sgi_stl"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

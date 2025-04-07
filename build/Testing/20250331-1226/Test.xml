@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="(empty)"
+	BuildStamp="20250331-1226-Experimental"
+	Name="(empty)"
+	Generator="ctest-3.28.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="DESKTOP-9I1TL77"
+	OSRelease="5.15.167.4-microsoft-standard-WSL2"
+	OSVersion="#1 SMP Tue Nov 5 00:21:55 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="165"
+	ProcessorCacheSize="6144"
+	NumberOfLogicalCPU="8"
+	NumberOfPhysicalCPU="4"
+	TotalVirtualMemory="2048"
+	TotalPhysicalMemory="7838"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="3696.01"
+	>
+	<Testing>
+		<StartDateTime>Mar 31 17:59 CEST</StartDateTime>
+		<StartTestTime>1743436769</StartTestTime>
+		<TestList>
+			<Test>./bin/mstl_heap_test</Test>
+		</TestList>
+		<Test Status="passed">
+			<Name>mstl_heap_test</Name>
+			<Path>./bin</Path>
+			<FullName>./bin/mstl_heap_test</FullName>
+			<FullCommandLine>/home/lzy/sgi-stl/build/bin/mstl_heap_test</FullCommandLine>
+			<Results>
+				<NamedMeasurement type="numeric/double" name="Execution Time">
+					<Value>0.0185137</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="numeric/double" name="Processors">
+					<Value>1</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Completion Status">
+					<Value>Completed</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Command Line">
+					<Value>/home/lzy/sgi-stl/build/bin/mstl_heap_test</Value>
+				</NamedMeasurement>
+				<NamedMeasurement type="text/string" name="Environment">
+					<Value>CTEST_FULL_OUTPUT=1
+#CTEST_RESOURCE_GROUP_COUNT=</Value>
+				</NamedMeasurement>
+				<Measurement>
+					<Value encoding="base64" compression="gzip">eJydksFugzAQRO/+iv0CFANGwrdGzaFSb8m9ctEmsWqDhc0hf9/FIQaSRlUrTnhm3o5ZDuiDbk/gBn/+OKNyWZYxdqBTaJRH4BK2yusmvrG3VgetDIxGCQIKKIHTw16OAfsZIqEiTUSthCUvl7CzLlwi4jHGV+ZCwp7KGQQ0aLENT1L5Xa6U8K76E0I72E/sH2qXVC7/sTbfkCiiWKyQgqpYZczfkbO2WRErCa+DM7pRId3P/4t7axr32Lm0xt9Yk1WSkJPEFxirvjBxtnjsepzPZDSPmxdQU7SKf4K4cRe+mrTxe4ppMr/60hjf9eF+TDp7Gr+OWfhGZbxBMbkF5Wpg31hd0gs=</Value>
+				</Measurement>
+			</Results>
+			<Labels>
+				<Label>debug</Label>
+			</Labels>
+		</Test>
+		<EndDateTime>Mar 31 17:59 CEST</EndDateTime>
+		<EndTestTime>1743436769</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>
